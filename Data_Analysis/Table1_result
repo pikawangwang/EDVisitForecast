@@ -1,0 +1,54 @@
+Emergency Visit Analysis (Table1) for Linkou Hospital:
+          Total days Total visits Average visits Standard Deviation Coefficient of Variation Min visits Max visits
+2007-2017      3,727    1,709,680          458.7              60.02                   0.1308        325        986
+2018-2019        730      341,040          467.2              56.43                   0.1208        351        880
+2020-2021        731      345,690          472.9             184.13                   0.3894        172        954
+2022             273      129,753          475.3              53.54                   0.1127        352        633
+2007-2022      5,461    2,526,163          462.6              87.15                   0.1884        172        986
+--------------------------------------------------------------------------------
+
+Emergency Visit Analysis (Table1) for Taipei Hospital:
+          Total days Total visits Average visits Standard Deviation Coefficient of Variation Min visits Max visits
+2007-2017      3,737      594,048          159.0              40.14                   0.2525         82        470
+2018-2019        730       99,492          136.3              28.30                   0.2076         87        324
+2020-2021        731      103,021          140.9              55.21                   0.3918         55        304
+2022             273       38,109          139.6              33.40                   0.2393         84        360
+2007-2022      5,471      834,670          152.6              41.95                   0.2749         55        470
+--------------------------------------------------------------------------------
+
+Emergency Visit Analysis (Table1) for Keelung Hospital:
+          Total days Total visits Average visits Standard Deviation Coefficient of Variation Min visits Max visits
+2007-2017      3,639      683,781          187.9              43.55                   0.2318         69        495
+2018-2019        730      145,739          199.6              35.15                   0.1760        127        400
+2020-2021        731      150,450          205.8              81.40                   0.3955        101        456
+2022             273       58,077          212.7              53.83                   0.2530        122        438
+2007-2022      5,373    1,038,047          193.2              50.64                   0.2621         69        495
+--------------------------------------------------------------------------------
+
+Emergency Visit Analysis (Table1) for Chiayi Hospital:
+          Total days Total visits Average visits Standard Deviation Coefficient of Variation Min visits Max visits
+2007-2017      3,602      667,928          185.4              44.66                   0.2408         14        604
+2018-2019        730      150,649          206.4              38.73                   0.1877        140        516
+2020-2021        731      155,849          213.2              74.09                   0.3475        103        473
+2022             273       55,015          201.5              22.35                   0.1109        146        296
+2007-2022      5,336    1,029,441          192.9              49.50                   0.2566         14        604
+--------------------------------------------------------------------------------
+
+Emergency Visit Analysis (Table1) for Kaohsiung Hospital:
+          Total days Total visits Average visits Standard Deviation Coefficient of Variation Min visits Max visits
+2007-2017      3,573    1,279,032          358.0              57.32                   0.1601        194      1,014
+2018-2019        730      272,607          373.4              50.37                   0.1349        273        764
+2020-2021        731      274,565          375.6             124.59                   0.3317        199        690
+2022             273       98,543          361.0              38.21                   0.1059        269        490
+2007-2022      5,307    1,924,747          362.7              69.46                   0.1915        194      1,014
+--------------------------------------------------------------------------------
+
+Emergency Visit Analysis (Table1) for Yunlin Hospital:
+          Total days Total visits Average visits Standard Deviation Coefficient of Variation Min visits Max visits
+2007-2017      2,922      108,572           37.2              12.06                   0.3245          7        142
+2018-2019        730       29,728           40.7              11.27                   0.2767         11        114
+2020-2021        731       32,510           44.5              18.24                   0.4101         15        132
+2022             273       11,863           43.5              12.12                   0.2790         25        130
+2007-2022      4,656      182,673           39.2              13.43                   0.3422          7        142
+--------------------------------------------------------------------------------
+
