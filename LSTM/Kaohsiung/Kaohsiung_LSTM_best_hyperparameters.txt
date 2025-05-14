@@ -1,0 +1,7 @@
+Best hyperparameters found were:
+{
+    "hidden_dim": 436,
+    "learning_rate": 0.0008284109266461547,
+    "n_rnn_layers": 2,
+    "dropout": 0.4388168243413608
+}

@@ -1,0 +1,8 @@
+Best hyperparameters found were:
+{
+    "hidden_size": 95,
+    "learning_rate": 0.005742776318572443,
+    "num_encoder_layers": 3,
+    "num_decoder_layers": 2,
+    "dropout": 0.6357764768003816
+}

@@ -1,0 +1,5 @@
+Best hyperparameters found were:
+{
+    "lags_past_covariates": 15,
+    "lags": 29
+}

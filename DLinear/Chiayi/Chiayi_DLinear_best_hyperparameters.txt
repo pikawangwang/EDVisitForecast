@@ -1,0 +1,5 @@
+Best hyperparameters found were:
+{
+    "kernel_size": 11,
+    "learning_rate": 0.00037520558551242813
+}
